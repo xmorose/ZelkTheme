@@ -754,7 +754,7 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
 }
 .headerTop-1PNKck {
     top: 20px;
-    margin-left: 15px;
+    justify-content: flex-end;
 }
 .nameTag-2Nlmsy {
     margin: 24px 290px 24px 24px;
