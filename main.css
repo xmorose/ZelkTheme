@@ -43,9 +43,6 @@
     margin-right: 8px;
 }
 
-.profileBanner-2zIsK7 {
-    height: 180px
-}
 /* toolbar */
 .container-ZMc96U.themed-Hp1KC_, .container-1-ERn5 {
     background-color: var(--background-tertiary);
@@ -1916,4 +1913,10 @@ body:not(.powercord) .panels-3wFtMD::after {
 }
 .bf-toolbar .format:active {
     background: var(--background-modifier-active) !important;
+}
+
+/* Changes morose did */
+
+.profileBanner-2zIsK7 {
+    height: 180px
 }
