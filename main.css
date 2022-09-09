@@ -378,7 +378,7 @@
     flex: 0 0 auto;
 }
 .contentColumn-1C7as6, .customColumn-2n-oKU, .customScroller-m1-jZn>div {
-    max-width: unset !important;
+    max-width: fit-content;
 }
 .radioBar-3w9XY- {
     border-left: transparent;
