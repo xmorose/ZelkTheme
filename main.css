@@ -661,10 +661,12 @@ svg.slider-32CRPX svg, .bd-switch-slider>svg {
     background-color: var(--background-primary) !important;
 }
 /* mentions */
-.wrapper-1ZcZW- {
-    background: #BDE6FB30 !important;
+.theme-dark .wrapper-1ZcZW- {
+    background: rgba(var(--accent-base-dark), 0.2) !important;
     color: var(--accent-color);
 }
+.theme-light .wrapper-1ZcZW- {
+    background: rgba(var(--accent-base-light), 0.2) !important;
 /* profiles */
 .bodyTitle-3FWCs2, .bodyTitle-2Az3VQ, .footer-1N3bR3, .protip-2urNh2 {
     display: none;
