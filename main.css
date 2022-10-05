@@ -1926,3 +1926,13 @@ body:not(.powercord) .panels-3wFtMD::after {
 .relationshipButtons-3ByBpj {
     padding-left: 7px;
 }
+
+/*--------FRIENDS GRID----------*/
+.theme-dark, .theme-dark {
+    --FG-cards-background-normal: var(--background-tertiary);
+    --FG-cards-background-hover: var(--border-color);
+    --FG-cards-background-active: var(--border-color);
+}
+.theme-dark .outer-2JOHae.active-1W_Gl9, .theme-dark .outer-2JOHae.interactive-2zD88a:hover {
+    background-color: var(--background-primary);
+}
